@@ -183,6 +183,25 @@ Name: CrackerXI+
 Website: https://ipastore.me
 Icon: file:///Applications/crackerxi.app/AppIcon.png
 
+Package: flex3beta
+Architecture: iphoneos-arm
+Version: 1:3~Beta98
+Section: Tweaks
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>= 12.2) | org.swift.libswift (>= 5.0), firmware (>= 9.0)
+Suggests: com.rpetrich.rocketbootstrap
+Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
+Replaces: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
+Filename: ./debs/flex3beta_1%3a3~Beta98_iphoneos-arm.deb
+Size: 7494640
+MD5sum: d6376d749353fdadfbf9eb1b1895c764
+SHA1: f1352715e19bc3a362bb71129f46a93160b51f17
+SHA256: 924bfa0f6fa4669f2a95cad50bf3d1d6491b5e158bc2f0e3319fd64e8e104d6b
+SHA512: 5e432b1749d8e366b8e9d23b3d36b4ae0c6fe0d0eb0f78a71f70508f5fa632b35034b3e881b657a5946bebc8e025dc7d131d0ae4ce67c964fc3e25fbdcb05360
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Name: Flex 3 Beta
+Author: John Coates
+
 Package: jp.akusio.backgrounderaction13
 Architecture: iphoneos-arm
 Version: 0.1.4
