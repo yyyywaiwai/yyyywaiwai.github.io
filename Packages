@@ -1,0 +1,221 @@
+Package: ai.paisseon.satella
+Architecture: iphoneos-arm
+Version: 2.5.1
+Maintainer: Paisseon
+Installed-Size: 372
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/ai.paisseon.satella_2.5.1_iphoneos-arm.deb
+Size: 47408
+MD5sum: a7fb76ef459f77dfdcafe9d5106f23bd
+SHA1: 4190df43362ca415360fb5590ad5712acbd745a9
+SHA256: 0b33005e1615114bb1ef223c0f049470d1f54e87aad23a9dd17ce890045d0d6b
+SHA512: 71000aa0e86220f1cdd96e0ca5092eef548fd476e3178edda463c517be16d3a615529c9b7d7743c771f62dd0eb096d68a03504148b4911d880f0020579d7e0e9
+Description: IAP cracker for modern devices
+Name: Satella
+Author: Paisseon
+Icon: https://paisseon.github.io/info/satella.png
+SileoDepiction: https://paisseon.github.io/info/satella.json
+Depiction: https://paisseon.github.io/info/satella.html
+
+Package: com.brend0n.milkyway2-ios14fix
+Architecture: iphoneos-arm
+Version: 0.0.2.1
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.brend0n.milkyway2-ios14fix_0.0.2.1_iphoneos-arm.deb
+Size: 10150
+MD5sum: 97fa560c870e9fbcc75e366e0cebe335
+SHA1: ec1eb31c1a50520e34d9a9114fe516eb500b5400
+SHA256: 806884a9b90732482a355af6be65c38ac51d70ee845b82499456daf9cb0fd6d8
+SHA512: 46a57768d01b1c0d5c79bc320971b83cf2302ecd974f847caed3319200aed3e4014a973668bfc96b2fc1a10d51a09ce4d2728c287d8abf831e780bc39e09b899
+Description: Make MilkyWay2 great again!
+Name: MilkyWay2-iOS14Fix
+Author: Brend0n <brendonjkding@126.com>
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.milkyway2-ios14fix
+SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.milkyway2-ios14fix/depiction.json
+
+Package: com.c1d3r.PullOverPro
+Architecture: iphoneos-arm
+Version: 2.1.1
+Priority: optional
+Section: Tweaks
+Maintainer: c1d3r <c1d3rdev@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Conflicts:
+Replaces:
+Filename: ./debs/com.c1d3r.pulloverpro_2.1.1_iphoneos-arm.deb
+Size: 1566082
+MD5sum: 241e2cdf1544b5a4b3af4815604e71f1
+SHA1: b202bca6c201150d8f6cec37c632e833105b2147
+SHA256: 0807c46c1abd04b042dbbff6f3aa69ab65f823a85e88872be88f3321b43a9051
+SHA512: faa7f0c70ab9a314814cf89b55af7573b2ceb9a283aef24930005231bcee805fe36a0114909937740b8b4b8cbb38b7793faed66cf2f73aba8439f07b476fbd6c
+Homepage:
+Description: A better way to multitask!
+Name: PullOver Pro
+Author: c1d3r
+dev: c1d3r
+Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.pulloverpro
+Icon:
+
+Package: com.foxfort.portraitxi
+Architecture: iphoneos-arm
+Version: 4.1.0
+Section: Tweaks
+Maintainer: FoxfortMobile
+Installed-Size: 15204
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.20)
+Filename: ./debs/com.foxfort.portraitxi_4.1.0_iphoneos-arm.deb
+Size: 13225612
+MD5sum: ca26648483a711e5f44b114c3c12ed16
+SHA1: 4767d250241f96be33ee027a460247894a88889f
+SHA256: 6fd72dd9595e7492773da6c65b109f37c3dd56c7271fa54bcdf2f3b2130b4401
+SHA512: 74b2ba4fa4109a12e8249f8635facd9ddd5b4ce537e64e4f35bc41dc1b1f843ec022135e19cc80d3b0398f44a816d08453a97b70d36251bf1a139306acb5de66
+Description: Single camera portrait mode
+Name: PortraitXI
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/portraitxisettings.bundle/icon@3x.png
+
+Package: com.foxfort.translomatic
+Architecture: iphoneos-arm
+Version: 2.10.15
+Section: Tweaks
+Maintainer: FoxfortMobile
+Installed-Size: 3388
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.22), applist
+Conflicts: me.pulandres.translomatic, me.pulandres.translomatice, co.xrepo.appletweakjailbreak.translomatic, net.kenhtao.translomatic, net.kenhtao.translomatic, sileoturkiye.translomatic, sileoturkiye.translomatic12, com.yourepo.mohadu31.translomatic, com.yourepo.mohadu31.translomatice, org.cydia.kiimo.translomatic, com.hackyouriphone.translomatic, com.hackyouriphone.translomatice, co.hurouftech.translomatic, me.sa3odka.translomatic, com.cydiabc.translomaticzh, x7mii.vip.translomatic, com.bo7ios.translomatic
+Filename: ./debs/com.foxfort.translomatic_2.10.15_iphoneos-arm.deb
+Size: 2034024
+MD5sum: 3c3c43edb6559132d2b5f691860ee7e5
+SHA1: aa3abef99ccb135a8cfe3c741bcf0691211dc2dc
+SHA256: 047a40df452e3acc79ff6fb4c33d615401b5e3754739f76dc5c322c42c8faabe
+SHA512: cd71fe9357692e71ceaf4fa3ba88fb9e99bcccaf0e35948b360b3e0ceffbfee345ed93cd70bc93cc4ff15d3c5e0475e59488cb4c82986e57ae76aa1ce8bf77d0
+Description: Quickly translate any text
+Name: Translomatic
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
+
+Package: com.julioverne.spotilife
+Architecture: iphoneos-arm
+Version: 1.7
+Section: Tweaks
+Maintainer: ichitaso
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.spotilife_1.7_iphoneos-arm.deb
+Size: 193310
+MD5sum: c1239fc42576b54b1d0ee5676f248b5e
+SHA1: 8de463c62e4ba8e096b946b01b9bec9380370bed
+SHA256: 0ef201d5cced11bbeb7abd280351714568f31a02eae4488b38d47802add2fcb0
+SHA512: d12f2b0941bac51e8872e54ce3848aaeb791ebe3ee52df2bb06ab40f2998b4037ed39b2ee86ca3a8724301602be00727992b763afdeee38cc6f2fc62a1fcea5b
+Homepage: https://ichitaso.com
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Name: Spotilife
+Author: julioverne
+Depiction: https://cydia.ichitaso.com/depiction/spotilife.html
+
+Package: com.opa334.crane
+Architecture: iphoneos-arm
+Version: 1.1.4-4
+Section: Tweaks
+Maintainer: opa334
+Installed-Size: 3288
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.altlist (>=1.0.5), com.rpetrich.rocketbootstrap, preferenceloader, com.opa334.libundirect (>=1.1) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/com.opa334.crane_1.1.4-4_iphoneos-arm.deb
+Size: 582080
+MD5sum: d285e4885841a9a1348b855a7691d4c1
+SHA1: 2286dfd496f30ea73f17c9fe6d93d812ed0d49b5
+SHA256: f9229097a3c4fce09b31dc314774a5d0aa95fbf9621a08a74fb2fc070e4ddf28
+SHA512: f7936bf5a71e68894e00ed97d7f343fad94738e62f14b13ab7c101a612eeafe48c8eb580912cef95ac10cb3b4250c47d04ec7956ac9ab90705c15e4d211cbdc2
+Description: Multiple containers for your applications!
+Name: Crane
+Author: opa334
+
+Package: com.rileytestut.altdaemon
+Architecture: iphoneos-arm
+Version: 1.0
+Section: System
+Maintainer: Riley Testut
+Depends:
+Filename: ./debs/com.rileytestut.altdaemon_1.0_iphoneos-arm.deb
+Size: 597622
+MD5sum: 83660c2d5119ac6ecce72236b27cfae4
+SHA1: 3c7ce20ff72c17f17a1415b14534a9be3fc41ca1
+SHA256: 1f5b35f4c402f6abab69e1833b260a4dfac156bbe1f9807b7aec4cd22665cc95
+SHA512: 50b7fd4d79d08e7c372865f6d3cabfa2471a6b822a1cc1137ef2886a7f9260b08ce549e23835d30bcf5b1340c941932fdc47e30fa31596a2905f78ce62206ffd
+Homepage: https://altstore.io
+Description: AltDaemon allows AltStore to install and refresh apps without a computer.
+Name: AltDaemon
+Author: Riley Testut
+
+Package: com.rpgfarm.pulloverproapappview
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), com.c1d3r.pulloverpro, com.rpgfarm.libapappview
+Filename: ./debs/com.rpgfarm.pulloverproapappview_1.0_iphoneos-arm.deb
+Size: 4908
+MD5sum: f1b36b1857f909a25f8841910aa03f23
+SHA1: 2ebc6896e0bb45bf470f131811f95bf98efa2b95
+SHA256: 12a2ecf715ac6117ca129d5fa3c1247390a1f7cf66468b078414520dea49f441
+SHA512: 6e08e94f9cb3f9ed530844700022d7a55c7c923f1e800f4a7ddf063c8adbb94243281e50172b6e5aadd78b6aee129add1dcd7e079a531ccf7eb1e3e04607c636
+Description: PullOver Pro Keyboard Fix
+Name: PullOver Pro Keyboard Fix
+Author: Baw Appie <pp121324@gmail.com>
+
+Package: cydia.com.ipc.crackerxi
+Architecture: iphoneos-arm
+Version: 1.1.16
+Section: System
+Maintainer: c0pyn1nja
+Depends: firmware (>= 11.0)
+Filename: ./debs/cydia.com.ipc.crackerxi_1.1.16_iphoneos-arm.deb
+Size: 9960924
+MD5sum: 7363c9289b0041ba3bc8df156b751a9c
+SHA1: 27b8a552befab49a15e78d0cc1d5c5867af3c0fb
+SHA256: 3b835fa95d1d060334929db4ed8b67767c12dba58e8ded8acd0161d44ce974fc
+SHA512: e347b5b6b47acf13fb486ed012e6f444c012db45a9957edd5caeb0b9c67e49438640c4b3827656fb271cc7cd3d14f13be8b6310314b22d84c936ca61717a090b
+Description: Decrypts iOS Apps
+Name: CrackerXI+
+Website: https://ipastore.me
+Icon: file:///Applications/crackerxi.app/AppIcon.png
+
+Package: jp.akusio.backgrounderaction13
+Architecture: iphoneos-arm
+Version: 0.1.4
+Section: Tweaks
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 244
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/jp.akusio.backgrounderaction13_0.1.4_iphoneos-arm.deb
+Size: 14078
+MD5sum: c310760bda4ccc7e5ed3722aed9ef7de
+SHA1: b8619c32ee626b06376975eb84beecfd65cdae84
+SHA256: ad5dc505166d41fd2d60bd1ff9223e46ff1ba48999a57483cc78d8c946dec9c0
+SHA512: 7de4b826a9e436adb2d2252acd9283bbb9c3301e3fb02d7069e67c23c267e3f66b003aa0b7ac3450f25dea5c488a6007a21e45e30792c6b8f26b72715064f38e
+Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
+Name: BackgrounderAction2 for CCSupport
+Depiction: https://akusio.github.io/descriptions/backgrounderaction13/index.html
+Author: akusio <akusio-report@neko2.net>
+
+Package: jp.akusio.milkyway2
+Architecture: iphoneos-arm
+Version: 0.2.0-alpha
+Section: Tweaks
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 376
+Depends: mobilesubstrate, jp.akusio.backgrounderaction13, applist, preferenceloader
+Filename: ./debs/jp.akusio.milkyway2_0.2.0-alpha_iphoneos-arm.deb
+Size: 44822
+MD5sum: 45aff19ea7b0327a72e50c4a87d68cd8
+SHA1: a779498db20097cef4783e6d817796d640bd6372
+SHA256: 9c1aa016b720ecfaa6f3176cd88454ec8767f1832306b69cda85e3ed734165e3
+SHA512: b1d45f48ba91227fe22d8f7d0489b9e59f0c27b3b8e55356c009da0574504d51340b80e275d2c834574671781135841a57fcdfd1c84a5245cda05d4ccc495c46
+Description: multitasking for iOS13.
+Name: MilkyWay2
+Depiction: http://akusio.github.io/descriptions/milkyway2/index.html
+Author: akusio <akusio-report@neko2.net>
+
