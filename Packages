@@ -1,3 +1,22 @@
+Package: ai.paisseon.cydown
+Architecture: iphoneos-arm
+Version: 7.1.4
+Maintainer: Julioverne & CyPwn
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.cydown, org.mr.cydown, ru.rj.cydown
+Filename: ./debs/ai.paisseon.cydown_7.1.4_iphoneos-arm.deb
+Size: 2602796
+MD5sum: 10fc74051cc47adc8d27e7ff17d8524c
+SHA1: df3c7a34084b140a7afa69ce75bcd727033a0a0b
+SHA256: b81c9f40d96e4639cbdcd3e42c8169fe88d83d7788d66771efc1a46931c81448
+SHA512: f137121b6353ff54cdfc2e8c30f8a34667f339303a3ca4dba7ef62ea849073fa2a0bbab788c8fc42765a134040a1175dce1200fda7fca61c9728474d894d5d47
+Description: Download tweaks for free
+Name: CyDown++
+Author: Julioverne & CyPwn
+SileoDepiction: https://paisseon.github.io/info/cydown.json
+Depiction: https://paisseon.github.io/info/cydown.html
+Icon: https://paisseon.github.io/info/cydown.png
+
 Package: ai.paisseon.satella
 Architecture: iphoneos-arm
 Version: 2.5.1
@@ -237,4 +256,26 @@ Description: multitasking for iOS13.
 Name: MilkyWay2
 Depiction: http://akusio.github.io/descriptions/milkyway2/index.html
 Author: akusio <akusio-report@neko2.net>
+
+Package: net.angelxwind.mikoto
+Architecture: iphoneos-arm
+Version: 4.0.3
+Section: Tweaks
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Installed-Size: 15548
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader (>= 2.2.0-1), net.angelxwind.karenprefs (>= 1.4), net.angelxwind.karenlocalizer
+Conflicts: com.xcxiao.simplelsios10
+Replaces:
+Filename: ./debs/nodelete-net.angelxwind.mikoto.deb
+Size: 11582804
+MD5sum: e1f49254a62ed949fd6d7d44c0b01043
+SHA1: 5717d7348bd1a23cc7bb94f659704409a21eeb8a
+SHA256: ea31dd47acfa2c397664ffb19e8bcc130d356d37fad49ccd6c45ebb32f06de69
+SHA512: 7d1ad1d60794c84083cc19539585692d7349a921114ba789b809b1aa6015101f505be5523e615a51b88ee84d840a7293a0ea8c85f9ad280a5122dd63f8909ade
+Homepage: https://cydia.angelxwind.net/
+Description: Comprehensive iOS System/App Store App customisation suite
+Name: mikoto
+Author: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.mikoto
+Icon: file:///Library/KarenRepoIcons/net.angelxwind.mikoto.png
 
